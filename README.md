@@ -1,4 +1,5 @@
 # cepi2ano
-Cursando Técnico em Desenvolvimento de Sistemas (SENAI) | Explorando código, lógica e boas práticas (˶>⩊<˶)
-<img width="363" height="360" alt="image" src="https://github.com/user-attachments/assets/21a2cd2a-19b5-4866-a1b6-11d403afd06f" />
+Desenvolvedor em formação, cursando Técnico em Desenvolvimento de Sistemas pelo SENAI. Tenho interesse em programação, tecnologia e criação de soluções eficientes. Busco constantemente aprender novas linguagens e aprimorar minhas habilidades práticas em projetos. (˶>⩊<˶)
+
 <img width="400" height="400" alt="octocat-1777381533186" src="https://github.com/user-attachments/assets/f0995d5e-fae4-47c4-8038-7a80dba5a0c9" />
+-![hippo] (https://media.tenor.com/QWemspX4xQgAAAAi/cat-eating-chips.gif)
