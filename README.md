@@ -1,4 +1,3 @@
 # cepi2ano
-<img width="1080" height="644" alt="image" src="https://github.com/user-attachments/assets/f1343182-e968-4790-8835-7a310208c84e" />
-
 the book is on the table (2° ano em desenvolvimento de sistemas)
+<img width="2000" height="2000" alt="octocat-1777381533186" src="https://github.com/user-attachments/assets/f0995d5e-fae4-47c4-8038-7a80dba5a0c9" />
