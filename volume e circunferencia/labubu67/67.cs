@@ -11,6 +11,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
+            /*
             Calculadora calc = new Calculadora();
 
             Console.Write("Entre com o valor do Raio: ");
@@ -22,7 +23,18 @@ namespace ConsoleApp1
             Console.WriteLine("Circunferencia: " + circ.ToString("F2", CultureInfo.InvariantCulture));
             Console.WriteLine("Volume: " + volume.ToString("F2", CultureInfo.InvariantCulture));
             Console.WriteLine("Valor de PI: " + calc.Pi.ToString("F2", CultureInfo.InvariantCulture));
+            */
 
+            Console.Write("Entre com o valor do Raio: ");
+            double raio = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+
+            double circ = Calculadora.Circunferencia(raio);
+            double volume = Calculadora.Volume(raio);
+
+            Console.WriteLine("Circunferencia: " + circ.ToString("F2", CultureInfo.Invariant);
+            Console.WriteLine("Volume: " + volume.ToString("F2", CultureInfo.InvariantCultur);
+            Console.WriteLine("Valor de PI: " + Calculadora.Pi.ToString("F2", CultureInfo.In);
         }
     }
 }
+
